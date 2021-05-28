@@ -1,0 +1,9 @@
+body{
+    background: linear-gradient(teal,blue);
+}
+.location h1{
+    font-size: 30px;
+}
+.temperature{
+    font-size: 21px;
+}
